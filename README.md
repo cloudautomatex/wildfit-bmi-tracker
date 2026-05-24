@@ -79,6 +79,34 @@ npm run preview
 
 The production files are generated in `dist/`.
 
+## Docker
+
+Build the production container:
+
+```bash
+docker build -t wildfit-bmi-tracker .
+```
+
+Run it locally:
+
+```bash
+docker run --rm -p 8080:80 wildfit-bmi-tracker
+```
+
+Open:
+
+```bash
+http://localhost:8080
+```
+
+Or use Docker Compose:
+
+```bash
+docker compose up --build
+```
+
+The container uses a multi-stage build: Node builds the Vite app, then Nginx serves the static production files with SPA routing and PWA-friendly cache headers.
+
 ## Deployment
 
 ### Vercel

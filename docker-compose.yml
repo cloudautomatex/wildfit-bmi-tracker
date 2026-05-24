@@ -1,0 +1,9 @@
+services:
+  wildfit-bmi-tracker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: wildfit-bmi-tracker:latest
+    ports:
+      - "8080:80"
+    restart: unless-stopped
