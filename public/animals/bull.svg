@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Bull">
+  <circle cx="120" cy="120" r="112" fill="#fef3c7"/>
+  <path d="M54 74c32 3 47 16 53 38H82C62 112 48 96 54 74zM186 74c-32 3-47 16-53 38h25c20 0 34-16 28-38z" fill="#f8fafc" stroke="#92400e" stroke-width="7"/>
+  <path d="M65 108c0-35 24-62 55-62s55 27 55 62v32c0 36-25 62-55 62s-55-26-55-62v-32z" fill="#92400e"/>
+  <path d="M83 144c10-16 22-24 37-24s27 8 37 24c-5 26-18 44-37 44s-32-18-37-44z" fill="#fde68a"/>
+  <circle cx="96" cy="112" r="7" fill="#111827"/>
+  <circle cx="144" cy="112" r="7" fill="#111827"/>
+  <circle cx="107" cy="153" r="5" fill="#78350f"/>
+  <circle cx="133" cy="153" r="5" fill="#78350f"/>
+  <path d="M96 74l-18-25M144 74l18-25" stroke="#78350f" stroke-width="8" stroke-linecap="round"/>
+</svg>

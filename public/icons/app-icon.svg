@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WildFit BMI Tracker icon">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="32" x2="448" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14b8a6"/>
+      <stop offset="0.48" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="152" fill="#f8fafc" opacity="0.16"/>
+  <path d="M168 290c0-64 40-116 88-116s88 52 88 116" fill="none" stroke="#f8fafc" stroke-width="28" stroke-linecap="round"/>
+  <path d="M256 292l64-72" stroke="#facc15" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="256" cy="292" r="20" fill="#facc15"/>
+  <path d="M142 176l52-38 22 58M370 176l-52-38-22 58" fill="#f97316"/>
+  <text x="256" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="900" fill="#fff">BMI</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lion">
+  <circle cx="120" cy="120" r="112" fill="#ffe4e6"/>
+  <path d="M120 20l22 31 36-13 2 38 36 12-20 32 20 32-36 12-2 38-36-13-22 31-22-31-36 13-2-38-36-12 20-32-20-32 36-12 2-38 36 13 22-31z" fill="#b45309"/>
+  <circle cx="120" cy="122" r="70" fill="#f59e0b"/>
+  <circle cx="120" cy="150" r="32" fill="#ffedd5"/>
+  <circle cx="96" cy="116" r="8" fill="#111827"/>
+  <circle cx="144" cy="116" r="8" fill="#111827"/>
+  <path d="M108 143h24l-12 12-12-12z" fill="#111827"/>
+  <path d="M96 166c15 12 33 12 48 0" fill="none" stroke="#92400e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M72 97l-21-12M168 97l21-12M70 129l-24 3M170 129l24 3" stroke="#78350f" stroke-width="7" stroke-linecap="round"/>
+</svg>

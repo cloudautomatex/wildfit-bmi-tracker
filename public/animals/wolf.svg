@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Wolf">
+  <circle cx="120" cy="120" r="112" fill="#e0f2fe"/>
+  <path d="M55 74l35 22 30-38 30 38 35-22-17 70c-7 31-28 52-48 52s-41-21-48-52L55 74z" fill="#64748b"/>
+  <path d="M82 98l38-50 38 50-22 30h-32L82 98z" fill="#94a3b8"/>
+  <path d="M80 120c12 27 25 47 40 60 15-13 28-33 40-60l-24 8-16 28-16-28-24-8z" fill="#f8fafc"/>
+  <circle cx="96" cy="116" r="7" fill="#0f172a"/>
+  <circle cx="144" cy="116" r="7" fill="#0f172a"/>
+  <path d="M112 138h16l-8 10-8-10z" fill="#0f172a"/>
+  <path d="M96 156c13 10 35 10 48 0" fill="none" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+</svg>
